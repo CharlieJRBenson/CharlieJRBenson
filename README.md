@@ -14,9 +14,9 @@ Developer</h2>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-<object data="./CV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./CV.pdf">Download PDF</a>.</p>
+<object data="./CV-Charlie-Benson.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./CV-Charlie-Benson.pdf">
+        <p>This page does not support PDFs. Please download the PDF to view it: <a href="./CV-Charlie-Benson.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -36,7 +36,6 @@ I am a Defi & Web3 Developer based in London.
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -51,8 +50,10 @@ I am a Defi & Web3 Developer based in London.
 ### 🔥 &nbsp; My GitHub Stats :
 
 
+
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=CharlieJRBenson&theme=dark&background=000000" alt="GitHub Streak"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieJRBenson&layout=default&theme=vision-friendly-dark" alt="Top Langs"></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieJRBenson&layout=default&theme=vision-friendly-dark" alt="Top Langs"></a>
 
 ---
 
