@@ -17,8 +17,11 @@ Developer</h2>
 
 ### :man_technologist: About Me :
 
-I am a Defi & Web3 Developer based in London.
+I am a Solidity Smart-Contract & Web3 Developer based in London.
 
+- I build, test, deploy and hack Smart-Contracts on EVM chains.
+
+- It's my passion to impact the way Defi/Blockchain will change the future of our tech and finance industries. 
 
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Charlie-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-benson-968a8492/)
 
