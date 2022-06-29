@@ -50,10 +50,10 @@ I am a Defi & Web3 Developer based in London.
 
 ### 🔥 &nbsp; My GitHub Stats :
 
-<p align="center">
+
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=CharlieJRBenson&theme=dark&background=000000" alt="GitHub Streak"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieJRBenson&layout=default&theme=vision-friendly-dark" alt="Top Langs"></a>
-</p>
+
 ---
 
 ### ✍️ Blog Posts and Projects : 
