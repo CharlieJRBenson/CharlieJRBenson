@@ -20,7 +20,7 @@ Developer</h2>
     </embed>
 </object>
 
-### About Me :
+### :man_technologist: &nbsp About Me :
 
 I am a Defi & Web3 Developer based in London.
 
