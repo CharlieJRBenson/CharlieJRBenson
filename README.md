@@ -14,7 +14,7 @@
 Developer</h2>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-[![Watch the video](https://i.imgur.com/u72aIna.mp4)](https://i.imgur.com/u72aIna.mp4)
+
 ### :man_technologist: About Me :
 
 I am a Solidity Smart-Contract & Web3 Developer based in London.
