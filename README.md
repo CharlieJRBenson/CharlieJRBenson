@@ -14,6 +14,8 @@
 Developer</h2>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://i.imgur.com/u72aIna.mp4" width="600" height="300"  /></p>
+
 
 ### :man_technologist: About Me :
 
