@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/charles-benson-968a8492/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/charles-benson-blockchain/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="./CV-Charlie-Benson.pdf"><img src="https://img.shields.io/badge/MY%20CV-purple?style=for-the-badge&logo=ethereum&logoColor=white" alt="CV"></a>
 <a href="https://twitter.com/charlie_benson1"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -23,7 +23,7 @@ I am a Solidity Smart-Contract & Web3 Developer based in London.
 
 - It's my passion to impact the way Defi/Blockchain will change the future of our tech and finance industries. 
 
-- How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Charlie-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-benson-968a8492/)
+- How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Charlie-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-benson-blockchain/)
 
 ---
 
