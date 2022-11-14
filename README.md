@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/charles-benson-blockchain/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="./CV-Charlie-Benson.pdf"><img src="https://img.shields.io/badge/MY%20CV-purple?style=for-the-badge&logo=ethereum&logoColor=white" alt="CV"></a>
+<a href=""><img src="https://img.shields.io/badge/MY%20CV-purple?style=for-the-badge&logo=ethereum&logoColor=white" alt="CV"></a>
 <a href="https://twitter.com/charlie_benson1"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
