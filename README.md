@@ -57,7 +57,7 @@ I am a Solidity Smart-Contract & Web3 Developer based in London.
 ---
 
 ### ✍️ Blog Posts and Projects : 
-- [Smart Contract Best Practice](https://github.com/CharlieJRBenson/Smart-Contract-Best-Practices)
+- [Smart Contract Best Practice](https://github.com/CharlieJRBenson/Smart-Contract-Best-Practices) or [Smart Contract Vulnerabilities Dictionary](https://github.com/CharlieJRBenson/Smart-Contract-Vulnerability-Dictionary)
 - [Hacking Smart Contracts and Finding Exploits](https://github.com/CharlieJRBenson/SmartContractHacking)
 - [Check out my NFT Collection - Latin NFTs](https://github.com/CharlieJRBenson/Latin-NFT)
 - [8051 Microprocessor Assembly Language and Electronics](https://medium.com/@charliebensonalt/interfacing-the-8051-with-the-8255-peripheral-interface-adapter-2e48f3aa5640)
