@@ -15,6 +15,15 @@ Developer</h2>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"  /></p>
 
+### ✍️ Blog Posts and Projects : 
+- [Smart Contract Best Practice](https://github.com/CharlieJRBenson/Smart-Contract-Best-Practices) or [Smart Contract Vulnerabilities Dictionary](https://github.com/CharlieJRBenson/Smart-Contract-Vulnerability-Dictionary)
+- [Hacking Smart Contracts and Finding Exploits](https://github.com/CharlieJRBenson/SmartContractHacking)
+- [Check out my NFT Collection - Latin NFTs](https://github.com/CharlieJRBenson/Latin-NFT)
+- [8051 Microprocessor Assembly Language and Electronics](https://medium.com/@charliebensonalt/interfacing-the-8051-with-the-8255-peripheral-interface-adapter-2e48f3aa5640)
+
+
+---
+
 ### :man_technologist: About Me :
 
 I am a Solidity Smart-Contract & Web3 Developer based in London.
@@ -53,12 +62,3 @@ I am a Solidity Smart-Contract & Web3 Developer based in London.
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-five-psi-77.vercel.app/api/top-langs/?username=CharlieJRBenson&layout=compact&theme=vision-friendly-dark" alt="Top Langs"></a>
 </p>
-
----
-
-### ✍️ Blog Posts and Projects : 
-- [Smart Contract Best Practice](https://github.com/CharlieJRBenson/Smart-Contract-Best-Practices) or [Smart Contract Vulnerabilities Dictionary](https://github.com/CharlieJRBenson/Smart-Contract-Vulnerability-Dictionary)
-- [Hacking Smart Contracts and Finding Exploits](https://github.com/CharlieJRBenson/SmartContractHacking)
-- [Check out my NFT Collection - Latin NFTs](https://github.com/CharlieJRBenson/Latin-NFT)
-- [8051 Microprocessor Assembly Language and Electronics](https://medium.com/@charliebensonalt/interfacing-the-8051-with-the-8255-peripheral-interface-adapter-2e48f3aa5640)
-
