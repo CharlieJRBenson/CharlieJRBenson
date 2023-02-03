@@ -10,12 +10,12 @@
 
 
 <h1 align="center">Charlie Benson</h1>
-<h2 align="center">Web3 & Smart Contract Software
-Developer</h2>
+<h2 align="center">Web3 Smart Contract Security Researcher and Engineer</h2>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"  /></p>
 
 ### ✍️ Blog Posts and Projects : 
+- Founder and Security Researcher @ [0xThirdEye](https://twitter.com/0xThirdEye)
 - [Smart Contract Best Practice](https://github.com/CharlieJRBenson/Smart-Contract-Best-Practices) or [Smart Contract Vulnerabilities Dictionary](https://github.com/CharlieJRBenson/Smart-Contract-Vulnerability-Dictionary)
 - [Hacking Smart Contracts and Finding Exploits](https://github.com/CharlieJRBenson/SmartContractHacking)
 - [Check out my NFT Collection - Latin NFTs](https://github.com/CharlieJRBenson/Latin-NFT)
