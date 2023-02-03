@@ -60,5 +60,5 @@ I am a Solidity Smart-Contract & Web3 Developer based in London.
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=CharlieJRBenson&theme=dark&background=000000" alt="GitHub Streak"></a>
 </p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-five-psi-77.vercel.app/api/top-langs/?username=CharlieJRBenson&layout=compact&theme=vision-friendly-dark" alt="Top Langs"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-five-psi-77.vercel.app/api/top-langs?username=CharlieJRBenson&layout=compact&theme=vision-friendly-dark" alt="Top Langs"></a>
 </p>
