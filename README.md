@@ -27,11 +27,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Solidity Smart-Contract & Web3 Developer based in London.
+I am a Smart Contract Security Researcher / Auditor / Engineer - based in London.
 
-- I build, test, deploy and hack Smart-Contracts on EVM chains.
+- Dedicated Code4rena Warden & Founder of [0xThirdEye](https://0xthirdeye.com) Private Auditing Consultancy.
 
-- It's my passion to impact the way Defi/Blockchain changes the future of our tech and finance industries. 
+- It's my passion to bring impact to the security of Web3 and Defi.
 
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Charlie-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-benson-blockchain/)
 
