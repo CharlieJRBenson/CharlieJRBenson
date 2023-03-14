@@ -60,6 +60,3 @@ I am a Smart Contract Security Researcher / Auditor / Engineer - based in London
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=CharlieJRBenson&theme=dark&background=000000" alt="GitHub Streak"></a>
 </p>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-five-psi-77.vercel.app/api/top-langs?username=CharlieJRBenson&layout=compact&theme=vision-friendly-dark" alt="Top Langs"></a>
-</p>
