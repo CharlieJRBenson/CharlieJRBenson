@@ -17,8 +17,8 @@
 ### ✍️ Blog Posts and Projects : 
 - Founder and Security Researcher @ [0xThirdEye.com](https://0xthirdeye.com) 
 - Twitter [@0xThirdEye](https://twitter.com/0xThirdEye)
-- [Smart Contract Best Practice](https://github.com/CharlieJRBenson/Smart-Contract-Best-Practices) or [Smart Contract Vulnerabilities Dictionary](https://github.com/CharlieJRBenson/Smart-Contract-Vulnerability-Dictionary)
 - [**Hacking Smart Contracts and Finding Exploits**](https://github.com/CharlieJRBenson/SmartContractHacking)
+- [Smart Contract Best Practice](https://github.com/CharlieJRBenson/Smart-Contract-Best-Practices) or [Smart Contract Vulnerabilities Dictionary](https://github.com/CharlieJRBenson/Smart-Contract-Vulnerability-Dictionary)
 - [Check out my NFT Collection - Latin NFTs](https://github.com/CharlieJRBenson/Latin-NFT)
 - [8051 Microprocessor Assembly Language and Electronics](https://medium.com/@charliebensonalt/interfacing-the-8051-with-the-8255-peripheral-interface-adapter-2e48f3aa5640)
 
