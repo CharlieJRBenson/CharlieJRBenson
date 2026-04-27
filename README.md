@@ -15,22 +15,14 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"  /></p>
 
 ### ✍️ Blog Posts and Projects : 
-- Founder and Security Researcher @ [0xThirdEye.com](https://0xthirdeye.com) / [@0xThirdEye](https://twitter.com/0xThirdEye)
 - **Check This Out** [My Breakdown to Popular SC Hacking CTF's](https://github.com/CharlieJRBenson/SmartContractHacking)
 - [Smart Contract Best Practice](https://github.com/CharlieJRBenson/Smart-Contract-Best-Practices) or [Smart Contract Vulnerabilities Dictionary](https://github.com/CharlieJRBenson/Smart-Contract-Vulnerability-Dictionary)
-- [Check out my NFT Collection - Latin NFTs](https://github.com/CharlieJRBenson/Latin-NFT)
 - [8051 Microprocessor Assembly Language and Electronics](https://medium.com/@charliebensonalt/interfacing-the-8051-with-the-8255-peripheral-interface-adapter-2e48f3aa5640)
-
-
 ---
 
 ### :man_technologist: About Me :
 
-I am a Smart Contract Security Researcher / Auditor / Engineer - based in London.
-
-- Dedicated Code4rena Warden & Founder of [0xThirdEye](https://0xthirdeye.com) Private Auditing Consultancy.
-
-- It's my passion to bring impact to the security of Web3 and Defi.
+I am a Blockchain Engineer - based in London.
 
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Charlie-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-benson-blockchain/)
 
